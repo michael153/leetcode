@@ -3,7 +3,7 @@
 ### Author: Michael Wan
 This is a personal repository of solved Leetcode Practice Problems
 
-Questions completed:
+### Questions completed
 1\. Two Sum  
 2\. Add Two Numbers  
 105\. Construct Binary Tree from Preorder and Inorder Traversal  
